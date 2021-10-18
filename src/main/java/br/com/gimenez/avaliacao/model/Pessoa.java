@@ -10,6 +10,10 @@ import javax.validation.constraints.NotNull;
 import java.time.LocalDate;
 import java.util.List;
 
+
+/**
+ * Classe de modelagem da entidade Pessoa.
+ */
 @Getter
 @Entity
 @Table(name = "pessoa")
